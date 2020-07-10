@@ -1,4 +1,6 @@
-### Hi there 👋
+### Greetings 👋
+
+Check out https://meekohi.com for more information about me.
 
 <!--
 **Meekohi/Meekohi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
